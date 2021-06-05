@@ -1,0 +1,33 @@
+
+div {
+    border: 1px solid lightgrey;
+}
+#btn {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+}
+#btn-side {
+    margin: 10px 10px 10px 10px;
+    padding: 5px;
+    border: none;
+    border-bottom: 2px solid lightgray;
+
+}
+.borr {
+    border: none;
+}
+.content {
+    margin: 10px;
+    border: none;
+}
+.side {
+    border: none;
+    margin-left: 5px;
+}
+.nav-bar {
+    border: none;
+    margin-left: 10px;
+}
